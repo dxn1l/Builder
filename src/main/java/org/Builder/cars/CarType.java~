@@ -1,0 +1,4 @@
+package org.Builder.cars;
+
+public class CarType {
+}
